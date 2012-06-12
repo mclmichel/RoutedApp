@@ -8,6 +8,10 @@ Ext.require('Ext.ux.app.RoutedApplication', function () {
 			'Artists',
 			'Songs'
 		],
+		
+		
+		
+		
 		requires: [
 			'RoutedApp.view.Viewport',
 			'RoutedApp.view.FormWindow'
